@@ -1,6 +1,6 @@
 
-Proyecto de una app creada mediante el uso de Flutter / Dart basada en un comunicador en lengua catalana.
+Proyecto en desarrollo de una app creada desarrollada con Flutter basada en un comunicador en lengua catalana.
 
 Vídeo del trabajo realizado actualmente:
 
-https://www.loom.com/share/5ce1232638b14105b60f626f8b9ddeb5
+https://www.loom.com/share/8b3d14ef262c4f5596380adc7b3340c4)https://www.loom.com/share/8b3d14ef262c4f5596380adc7b3340c4
